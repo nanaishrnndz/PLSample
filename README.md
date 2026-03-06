@@ -1,1 +1,1 @@
-# Traffic Quest Cloud Fix\nThis build fixes the SQLite data-folder issue on Streamlit Cloud.\n
+# Traffic Quest RPG v3\nFixes schema compatibility, restores 8-bit font, adds delete confirmation.\n
